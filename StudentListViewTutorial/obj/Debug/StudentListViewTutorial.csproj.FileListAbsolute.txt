@@ -1,0 +1,16 @@
+D:\david\SCHULE\SEW\StudentListViewTutorial\bin\Debug\StudentListViewTutorial.exe.config
+D:\david\SCHULE\SEW\StudentListViewTutorial\bin\Debug\StudentListViewTutorial.exe
+D:\david\SCHULE\SEW\StudentListViewTutorial\bin\Debug\StudentListViewTutorial.pdb
+D:\david\SCHULE\SEW\StudentListViewTutorial\obj\Debug\StudentListViewTutorial.csprojAssemblyReference.cache
+D:\david\SCHULE\SEW\StudentListViewTutorial\obj\Debug\View\Window1.g.cs
+D:\david\SCHULE\SEW\StudentListViewTutorial\obj\Debug\App.g.cs
+D:\david\SCHULE\SEW\StudentListViewTutorial\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\david\SCHULE\SEW\StudentListViewTutorial\obj\Debug\StudentListViewTutorial_MarkupCompile.cache
+D:\david\SCHULE\SEW\StudentListViewTutorial\obj\Debug\StudentListViewTutorial_MarkupCompile.lref
+D:\david\SCHULE\SEW\StudentListViewTutorial\obj\Debug\View\Window1.baml
+D:\david\SCHULE\SEW\StudentListViewTutorial\obj\Debug\StudentListViewTutorial.g.resources
+D:\david\SCHULE\SEW\StudentListViewTutorial\obj\Debug\StudentListViewTutorial.Properties.Resources.resources
+D:\david\SCHULE\SEW\StudentListViewTutorial\obj\Debug\StudentListViewTutorial.csproj.GenerateResource.cache
+D:\david\SCHULE\SEW\StudentListViewTutorial\obj\Debug\StudentListViewTutorial.csproj.CoreCompileInputs.cache
+D:\david\SCHULE\SEW\StudentListViewTutorial\obj\Debug\StudentListViewTutorial.exe
+D:\david\SCHULE\SEW\StudentListViewTutorial\obj\Debug\StudentListViewTutorial.pdb
